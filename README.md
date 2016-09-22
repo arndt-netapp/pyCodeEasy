@@ -1,3 +1,4 @@
+```
 Python CodeEasy (pyce)
 
 This sample code implements a number of storage operations around volume,
@@ -61,3 +62,4 @@ Options:
     Create a new clone named "build123_clone" from volume "build", using
     snapshot "snap1", and use a junction-path of "/builds/build123_clone":
     %> pyce.py -o create_clone -c build123_clone -v build123 -s snap1 -j /builds/build123_clone
+```
