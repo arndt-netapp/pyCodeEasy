@@ -1,18 +1,14 @@
-################################################################################
-#
-# Python CodeEasy (pyce)
-#
-# This sample code implements a number of storage operations around volume,
-# snapshot, and flexclone management.  This is based off the Perl implementation
-# of the NetApp CodeEasy framework of scripts.
-#
-# Requirements:
-#   1. Configure pyceConfig.py with your storage system related details.
-#   2. Install the NetApp python API modules in a directory named NMSDKpy.
-#
-# Run "./pyce.py -h" to see usage and examples.
-#
-################################################################################
+Python CodeEasy (pyce)
+
+This sample code implements a number of storage operations around volume,
+snapshot, and flexclone management.  This is based off the Perl implementation
+of the NetApp CodeEasy framework of scripts.
+
+Requirements:
+  1. Configure pyceConfig.py with your storage system related details.
+  2. Install the NetApp python API modules in a directory named NMSDKpy.
+
+Run "./pyce.py -h" to see usage and examples.
 
 Usage: pyce.py [options]
 
